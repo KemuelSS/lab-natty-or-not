@@ -1,51 +1,28 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# GUIA PARA CUIDAR DO SEU POQRUINHO DA INDIA ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este eBook foi criado para fornecer um guia completo e prático sobre os cuidados com porquinhos da índia. Ele aborda desde a escolha do ambiente ideal até a alimentação, higiene, saúde e rotina diária do animal, garantindo que tutores tenham todas as informações essenciais para proporcionar uma vida saudável e feliz ao seu pet.
+(A ideia surgiu porque recentemente adotei uma porquinha da india para cuidar e tive muitas dúvidas no começo sobre os cuidados e rotina do animalzinho)
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Para a criação deste eBook, utilizei:
+ChatGPT: Para estruturação do conteúdo e escrita do guia.
+Gamma App: Para design e formatação do eBook em PDF.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Planejamento: Definição dos tópicos essenciais com base nas principais necessidades dos tutores de porquinhos da índia.
+
+Pesquisa: Coleta de informações sobre alimentação, higiene, saúde e comportamento dos porquinhos da índia.
+
+Redação: Criação do conteúdo detalhado, incluindo recomendações específicas sobre dieta, rotina e cuidados veterinários.
+
+Design: Utilização do Gamma App para transformar o texto em um eBook visualmente atrativo.
+
+Revisão e Ajustes: Verificação do conteúdo para garantir clareza, precisão e qualidade final do material.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado final é um eBook bem estruturado e informativo, que serve como um guia prático para tutores de porquinhos da índia. Ele contém informações detalhadas sobre cuidados essenciais, facilitando a vida dos donos e promovendo o bem-estar desses animais adoráveis.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+O uso de IAs facilita muito a criação de conteúdos hoje em dia, demorei apenas alguns minutos para criar esse ebook completo, que com toda certeza eu conseguiria vender como infoproduto aqui na internet e usando apenas 2 IAs, CHATGPT e GAMMA APP.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
