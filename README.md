@@ -1,4 +1,4 @@
-# GUIA PARA CUIDAR DO SEU PORQUINHO DA INDIA ;)
+# GUIA COMPLETO PARA VOCÊ CUIDAR DO SEU PORQUINHO DA INDIA
 
 ## 📒 Descrição
 Este eBook foi criado para fornecer um guia completo e prático sobre os cuidados com porquinhos da índia. Ele aborda desde a escolha do ambiente ideal até a alimentação, higiene, saúde e rotina diária do animal, garantindo que tutores tenham todas as informações essenciais para proporcionar uma vida saudável e feliz ao seu pet.
